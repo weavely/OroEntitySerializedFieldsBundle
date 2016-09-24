@@ -1,5 +1,5 @@
 {
-    "name": "oro/platform-serialised-fields",
+    "name": "weavely/platform-serialised-fields",
     "description": "Oro Platform Serialized Fields",
     "homepage": "https://github.com/orocrm/OroEntitySerializedFieldsBundle",
     "license": "OSL-3.0",
@@ -18,7 +18,7 @@
     "target-dir": "src/Oro/Bundle/EntitySerializedFieldsBundle",
     "require": {
         "php": ">=5.5.9",
-        "oro/platform": "1.x-dev"
+        "weavely/platform": "1.x-dev"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
